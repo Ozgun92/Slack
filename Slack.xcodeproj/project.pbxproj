@@ -19,6 +19,7 @@
 		E3D6E68A260FC09D0017C63C /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6E689260FC09D0017C63C /* GradientView.swift */; };
 		E3D6E68E260FCF440017C63C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6E68D260FCF440017C63C /* Constants.swift */; };
 		E3D6E691260FDF140017C63C /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6E690260FDF140017C63C /* LoginVC.swift */; };
+		E3D6E694260FE3F70017C63C /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6E693260FE3F70017C63C /* CreateAccountVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		E3D6E689260FC09D0017C63C /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		E3D6E68D260FCF440017C63C /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		E3D6E690260FDF140017C63C /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		E3D6E693260FE3F70017C63C /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 				E305441A260F6C2800F1588D /* ChatVC.swift */,
 				E305441E260F6C3A00F1588D /* ChannelVC.swift */,
 				E3D6E690260FDF140017C63C /* LoginVC.swift */,
+				E3D6E693260FE3F70017C63C /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				E3D6E691260FDF140017C63C /* LoginVC.swift in Sources */,
 				E3D6E68A260FC09D0017C63C /* GradientView.swift in Sources */,
 				E30543F2260E988D00F1588D /* SceneDelegate.swift in Sources */,
+				E3D6E694260FE3F70017C63C /* CreateAccountVC.swift in Sources */,
 				E3D6E68E260FCF440017C63C /* Constants.swift in Sources */,
 				E3054413260F4CEB00F1588D /* SWRevealViewController.m in Sources */,
 				E305441F260F6C3A00F1588D /* ChannelVC.swift in Sources */,
